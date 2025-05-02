@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../012_HTML_CSS"
+		},
+		{
+			"path": "../013_HTML_JS"
+		},
+		{
+			"path": "../014_HTML_Links"
+		},
+		{
+			"path": "../015_HTML_ Images"
+		},
+		{
+			"path": "../016_HTML_Favicon"
+		},
+		{
+			"path": "../017_HTML_Tables"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../019_HTML_Block_Inline"
+		},
+		{
+			"path": "../020_HTML_Class_ID"
+		},
+		{
+			"path": "../021_HTML_Iframes"
+		},
+		{
+			"path": "../022_HTML_File_Paths"
+		},
+		{
+			"path": "../023_HTML_Forms"
+		},
+		{
+			"path": "../024_HTML_Media"
+		},
+		{
+			"path": "../025_HTML_Layout"
+		},
+		{
+			"path": "../026_HTML_Meta"
+		},
+		{
+			"path": "../html-final"
+		}
+	]
+}
